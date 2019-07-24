@@ -1,0 +1,280 @@
+2019-07-15 14:26:57 pid:8545 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2019-07-15 14:26:57 pid:8545 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2019-07-15 14:26:57 pid:8545 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2019-07-15 14:26:57 pid:8545 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2019-07-15 14:28:09 pid:8538 Workerman[start.php] stopping ...
+2019-07-15 14:28:09 pid:8538 Workerman[start.php] has been stopped
+2019-07-15 14:28:09 pid:8564 Workerman[start.php] start in DEBUG mode
+2019-07-15 14:28:13 pid:8574 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2019-07-15 14:28:13 pid:8574 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2019-07-15 14:28:25 pid:8564 Workerman[start.php] stopping ...
+2019-07-15 14:28:25 pid:8564 Workerman[start.php] has been stopped
+2019-07-15 14:28:25 pid:8578 Workerman[start.php] start in DEBUG mode
+2019-07-15 14:29:54 pid:8578 Workerman[start.php] stopping ...
+2019-07-15 14:29:55 pid:8578 Workerman[start.php] has been stopped
+2019-07-15 14:29:55 pid:8602 Workerman[start.php] start in DEBUG mode
+2019-07-15 14:37:06 pid:8602 Workerman[start.php] stopping ...
+2019-07-15 14:37:06 pid:8602 Workerman[start.php] has been stopped
+2019-07-15 14:37:06 pid:8683 Workerman[start.php] start in DEBUG mode
+2019-07-15 18:03:52 pid:8683 Workerman[start.php] stopping ...
+2019-07-15 18:03:52 pid:8683 Workerman[start.php] has been stopped
+2019-07-15 18:03:52 pid:10352 Workerman[start.php] start in DEBUG mode
+2019-07-15 18:03:53 pid:10352 Workerman[start.php] stopping ...
+2019-07-15 18:03:53 pid:10352 Workerman[start.php] has been stopped
+2019-07-15 18:03:58 pid:10365 Workerman[start.php] reload 
+2019-07-15 18:03:58 pid:10365 Workerman[start.php] not run
+2019-07-15 18:03:59 pid:10366 Workerman[start.php] start in DEBUG mode
+2019-07-16 09:34:21 pid:16511 Workerman[start.php] start in DEBUG mode
+2019-07-17 11:49:59 pid:28751 Workerman[start.php] start in DEBUG mode
+2019-07-17 17:33:43 pid:28751 Workerman[start.php] stopping ...
+2019-07-17 17:33:43 pid:28751 Workerman[start.php] has been stopped
+2019-07-17 17:33:48 pid:31515 Workerman[start.php] start in DEBUG mode
+2019-07-17 17:34:17 pid:31515 Workerman[start.php] stopping ...
+2019-07-17 17:34:17 pid:31515 Workerman[start.php] has been stopped
+2019-07-17 17:34:26 pid:31536 Workerman[start.php] start in DEBUG mode
+2019-07-17 17:34:31 pid:31536 Workerman[start.php] stopping ...
+2019-07-17 17:34:31 pid:31536 Workerman[start.php] has been stopped
+2019-07-17 17:34:36 pid:31558 Workerman[start.php] start in DEBUG mode
+2019-07-17 17:52:21 pid:31558 Workerman[start.php] stopping ...
+2019-07-17 17:52:21 pid:31558 Workerman[start.php] has been stopped
+2019-07-17 17:52:27 pid:31715 Workerman[start.php] start in DEBUG mode
+2019-07-17 17:57:59 pid:31715 Workerman[start.php] stopping ...
+2019-07-17 17:57:59 pid:31715 Workerman[start.php] has been stopped
+2019-07-17 17:58:04 pid:31770 Workerman[start.php] reload 
+2019-07-17 17:58:05 pid:31770 Workerman[start.php] not run
+2019-07-17 17:58:07 pid:31772 Workerman[start.php] start in DEBUG mode
+2019-07-17 18:02:12 pid:31772 Workerman[start.php] stopping ...
+2019-07-17 18:02:12 pid:31772 Workerman[start.php] has been stopped
+2019-07-17 18:02:13 pid:31832 Workerman[start.php] start in DEBUG mode
+2019-07-17 18:08:23 pid:31832 Workerman[start.php] stopping ...
+2019-07-17 18:08:23 pid:31832 Workerman[start.php] has been stopped
+2019-07-17 18:08:24 pid:31899 Workerman[start.php] start in DEBUG mode
+2019-07-18 09:56:58 pid:5454 Workerman[start.php] start in DEBUG mode
+2019-07-18 09:58:09 pid:5454 Workerman[start.php] stopping ...
+2019-07-18 09:58:09 pid:5454 Workerman[start.php] has been stopped
+2019-07-18 09:58:09 pid:5491 Workerman[start.php] start in DEBUG mode
+2019-07-18 09:59:02 pid:5491 Workerman[start.php] stopping ...
+2019-07-18 09:59:02 pid:5491 Workerman[start.php] has been stopped
+2019-07-18 09:59:03 pid:5517 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:01:24 pid:5517 Workerman[start.php] stopping ...
+2019-07-18 10:01:24 pid:5517 Workerman[start.php] has been stopped
+2019-07-18 10:01:27 pid:5566 Workerman[start.php] reload 
+2019-07-18 10:01:27 pid:5566 Workerman[start.php] not run
+2019-07-18 10:01:28 pid:5567 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:02:52 pid:5567 Workerman[start.php] stopping ...
+2019-07-18 10:02:52 pid:5567 Workerman[start.php] has been stopped
+2019-07-18 10:02:56 pid:5597 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:06:20 pid:5597 Workerman[start.php] stopping ...
+2019-07-18 10:06:20 pid:5597 Workerman[start.php] has been stopped
+2019-07-18 10:06:21 pid:5634 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:07:22 pid:5634 Workerman[start.php] stopping ...
+2019-07-18 10:07:22 pid:5634 Workerman[start.php] has been stopped
+2019-07-18 10:07:25 pid:5657 Workerman[start.php] reload 
+2019-07-18 10:07:25 pid:5657 Workerman[start.php] not run
+2019-07-18 10:07:26 pid:5658 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:12:24 pid:5658 Workerman[start.php] stopping ...
+2019-07-18 10:12:24 pid:5658 Workerman[start.php] has been stopped
+2019-07-18 10:12:24 pid:5702 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:18:23 pid:5702 Workerman[start.php] stopping ...
+2019-07-18 10:18:23 pid:5702 Workerman[start.php] has been stopped
+2019-07-18 10:18:23 pid:5745 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:20:56 pid:5745 Workerman[start.php] stopping ...
+2019-07-18 10:20:56 pid:5745 Workerman[start.php] has been stopped
+2019-07-18 10:20:56 pid:5782 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:24:09 pid:5782 Workerman[start.php] stopping ...
+2019-07-18 10:24:09 pid:5782 Workerman[start.php] has been stopped
+2019-07-18 10:24:10 pid:5826 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:24:42 pid:5826 Workerman[start.php] stopping ...
+2019-07-18 10:24:42 pid:5826 Workerman[start.php] has been stopped
+2019-07-18 10:24:42 pid:5843 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:28:28 pid:5843 Workerman[start.php] stopping ...
+2019-07-18 10:28:28 pid:5843 Workerman[start.php] has been stopped
+2019-07-18 10:28:38 pid:5882 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:29:41 pid:5882 Workerman[start.php] stopping ...
+2019-07-18 10:29:41 pid:5882 Workerman[start.php] has been stopped
+2019-07-18 10:29:42 pid:5916 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:30:04 pid:5922 Worker[5922] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:30:04 pid:5916 worker[YourAppBusinessWorker:5922] exit with status 65280
+2019-07-18 10:30:04 pid:5920 Worker[5920] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:30:04 pid:5916 worker[YourAppBusinessWorker:5920] exit with status 65280
+2019-07-18 10:30:27 pid:5940 Worker[5940] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:30:27 pid:5939 Worker[5939] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:30:27 pid:5916 worker[YourAppBusinessWorker:5940] exit with status 65280
+2019-07-18 10:30:27 pid:5916 worker[YourAppBusinessWorker:5939] exit with status 65280
+2019-07-18 10:30:49 pid:5942 Worker[5942] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:30:49 pid:5943 Worker[5943] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:30:49 pid:5916 worker[YourAppBusinessWorker:5942] exit with status 65280
+2019-07-18 10:30:49 pid:5916 worker[YourAppBusinessWorker:5943] exit with status 65280
+2019-07-18 10:31:12 pid:5947 Worker[5947] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:31:12 pid:5916 worker[YourAppBusinessWorker:5947] exit with status 65280
+2019-07-18 10:31:12 pid:5946 Worker[5946] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:31:12 pid:5916 worker[YourAppBusinessWorker:5946] exit with status 65280
+2019-07-18 10:31:16 pid:5916 Workerman[start.php] stopping ...
+2019-07-18 10:31:16 pid:5916 Workerman[start.php] has been stopped
+2019-07-18 10:31:17 pid:5972 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:31:47 pid:5976 Worker[5976] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:31:47 pid:5972 worker[YourAppBusinessWorker:5976] exit with status 65280
+2019-07-18 10:32:02 pid:5975 Worker[5975] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:32:02 pid:5972 worker[YourAppBusinessWorker:5975] exit with status 65280
+2019-07-18 10:32:25 pid:5977 Worker[5977] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:32:25 pid:5972 worker[YourAppBusinessWorker:5977] exit with status 65280
+2019-07-18 10:32:32 pid:5978 Worker[5978] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:32:32 pid:5972 worker[YourAppBusinessWorker:5978] exit with status 65280
+2019-07-18 10:32:47 pid:6007 Worker[6007] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:32:47 pid:5972 worker[YourAppBusinessWorker:6007] exit with status 65280
+2019-07-18 10:32:55 pid:6008 Worker[6008] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:32:55 pid:5972 worker[YourAppBusinessWorker:6008] exit with status 65280
+2019-07-18 10:33:10 pid:6010 Worker[6010] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:33:10 pid:5972 worker[YourAppBusinessWorker:6010] exit with status 65280
+2019-07-18 10:33:17 pid:6012 Worker[6012] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:33:17 pid:5972 worker[YourAppBusinessWorker:6012] exit with status 65280
+2019-07-18 10:33:32 pid:6014 Worker[6014] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 49"
+2019-07-18 10:33:32 pid:5972 worker[YourAppBusinessWorker:6014] exit with status 65280
+2019-07-18 10:33:38 pid:5972 Workerman[start.php] stopping ...
+2019-07-18 10:33:38 pid:5972 Workerman[start.php] has been stopped
+2019-07-18 10:33:39 pid:6019 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:36:13 pid:6019 Workerman[start.php] stopping ...
+2019-07-18 10:36:13 pid:6019 Workerman[start.php] has been stopped
+2019-07-18 10:36:14 pid:6047 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:36:36 pid:6051 Worker[6051] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:36:36 pid:6047 worker[YourAppBusinessWorker:6051] exit with status 65280
+2019-07-18 10:36:59 pid:6063 Worker[6063] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:36:59 pid:6047 worker[YourAppBusinessWorker:6063] exit with status 65280
+2019-07-18 10:37:21 pid:6065 Worker[6065] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:37:21 pid:6047 worker[YourAppBusinessWorker:6065] exit with status 65280
+2019-07-18 10:37:44 pid:6068 Worker[6068] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:37:44 pid:6047 worker[YourAppBusinessWorker:6068] exit with status 65280
+2019-07-18 10:38:06 pid:6072 Worker[6072] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:38:06 pid:6047 worker[YourAppBusinessWorker:6072] exit with status 65280
+2019-07-18 10:38:29 pid:6075 Worker[6075] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:38:29 pid:6047 worker[YourAppBusinessWorker:6075] exit with status 65280
+2019-07-18 10:38:51 pid:6077 Worker[6077] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:38:51 pid:6047 worker[YourAppBusinessWorker:6077] exit with status 65280
+2019-07-18 10:39:14 pid:6080 Worker[6080] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:39:14 pid:6047 worker[YourAppBusinessWorker:6080] exit with status 65280
+2019-07-18 10:39:36 pid:6082 Worker[6082] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:39:36 pid:6047 worker[YourAppBusinessWorker:6082] exit with status 65280
+2019-07-18 10:39:59 pid:6085 Worker[6085] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:39:59 pid:6047 worker[YourAppBusinessWorker:6085] exit with status 65280
+2019-07-18 10:40:21 pid:6087 Worker[6087] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:40:21 pid:6047 worker[YourAppBusinessWorker:6087] exit with status 65280
+2019-07-18 10:40:44 pid:6092 Worker[6092] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:40:44 pid:6047 worker[YourAppBusinessWorker:6092] exit with status 65280
+2019-07-18 10:41:06 pid:6053 Worker[6053] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:41:06 pid:6047 worker[YourAppBusinessWorker:6053] exit with status 65280
+2019-07-18 10:41:06 pid:6052 Worker[6052] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:41:06 pid:6047 worker[YourAppBusinessWorker:6052] exit with status 65280
+2019-07-18 10:41:29 pid:6109 Worker[6109] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:41:29 pid:6047 worker[YourAppBusinessWorker:6109] exit with status 65280
+2019-07-18 10:41:29 pid:6110 Worker[6110] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:41:29 pid:6047 worker[YourAppBusinessWorker:6110] exit with status 65280
+2019-07-18 10:41:51 pid:6112 Worker[6112] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:41:51 pid:6047 worker[YourAppBusinessWorker:6112] exit with status 65280
+2019-07-18 10:41:51 pid:6113 Worker[6113] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:41:51 pid:6047 worker[YourAppBusinessWorker:6113] exit with status 65280
+2019-07-18 10:42:14 pid:6116 Worker[6116] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:42:14 pid:6047 worker[YourAppBusinessWorker:6116] exit with status 65280
+2019-07-18 10:42:14 pid:6117 Worker[6117] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:42:14 pid:6047 worker[YourAppBusinessWorker:6117] exit with status 65280
+2019-07-18 10:42:34 pid:6047 Workerman[start.php] stopping ...
+2019-07-18 10:42:34 pid:6047 Workerman[start.php] has been stopped
+2019-07-18 10:42:34 pid:6124 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:43:04 pid:6128 Worker[6128] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:43:04 pid:6124 worker[YourAppBusinessWorker:6128] exit with status 65280
+2019-07-18 10:43:27 pid:6140 Worker[6140] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:43:27 pid:6124 worker[YourAppBusinessWorker:6140] exit with status 65280
+2019-07-18 10:43:49 pid:6143 Worker[6143] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:43:49 pid:6124 worker[YourAppBusinessWorker:6143] exit with status 65280
+2019-07-18 10:44:12 pid:6147 Worker[6147] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:44:12 pid:6124 worker[YourAppBusinessWorker:6147] exit with status 65280
+2019-07-18 10:44:34 pid:6150 Worker[6150] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:44:34 pid:6124 worker[YourAppBusinessWorker:6150] exit with status 65280
+2019-07-18 10:44:57 pid:6152 Worker[6152] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:44:57 pid:6124 worker[YourAppBusinessWorker:6152] exit with status 65280
+2019-07-18 10:45:19 pid:6155 Worker[6155] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:45:19 pid:6124 worker[YourAppBusinessWorker:6155] exit with status 65280
+2019-07-18 10:45:42 pid:6157 Worker[6157] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:45:42 pid:6124 worker[YourAppBusinessWorker:6157] exit with status 65280
+2019-07-18 10:46:04 pid:6160 Worker[6160] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:46:04 pid:6124 worker[YourAppBusinessWorker:6160] exit with status 65280
+2019-07-18 10:46:06 pid:6124 Workerman[start.php] stopping ...
+2019-07-18 10:46:06 pid:6124 Workerman[start.php] has been stopped
+2019-07-18 10:46:09 pid:6164 Workerman[start.php] reload 
+2019-07-18 10:46:09 pid:6164 Workerman[start.php] not run
+2019-07-18 10:46:10 pid:6165 Workerman[start.php] start in DEBUG mode
+2019-07-18 10:46:33 pid:6170 Worker[6170] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:46:33 pid:6165 worker[YourAppBusinessWorker:6170] exit with status 65280
+2019-07-18 10:46:55 pid:6181 Worker[6181] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:46:55 pid:6165 worker[YourAppBusinessWorker:6181] exit with status 65280
+2019-07-18 10:47:18 pid:6184 Worker[6184] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:47:18 pid:6165 worker[YourAppBusinessWorker:6184] exit with status 65280
+2019-07-18 10:47:42 pid:6186 Worker[6186] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:47:42 pid:6165 worker[YourAppBusinessWorker:6186] exit with status 65280
+2019-07-18 10:48:03 pid:6197 Worker[6197] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:48:03 pid:6165 worker[YourAppBusinessWorker:6197] exit with status 65280
+2019-07-18 10:48:25 pid:6201 Worker[6201] process terminated with ERROR: E_ERROR "Cannot use object of type stdClass as array in /var/www/weixin/whj_dt/workerman-chat/Applications/Chat/Events.php on line 50"
+2019-07-18 10:48:25 pid:6165 worker[YourAppBusinessWorker:6201] exit with status 65280
+2019-07-18 10:48:31 pid:6165 Workerman[start.php] stopping ...
+2019-07-18 10:48:31 pid:6165 Workerman[start.php] has been stopped
+2019-07-18 10:48:32 pid:6205 Workerman[start.php] start in DEBUG mode
+2019-07-18 15:17:29 pid:6205 Workerman[start.php] stopping ...
+2019-07-18 15:17:29 pid:6205 Workerman[start.php] has been stopped
+2019-07-18 15:24:13 pid:10135 Workerman[start.php] start in DEBUG mode
+2019-07-18 15:37:13 pid:10135 Workerman[start.php] stopping ...
+2019-07-18 15:37:14 pid:10135 Workerman[start.php] has been stopped
+2019-07-18 15:39:41 pid:10435 Workerman[start.php] start in DEBUG mode
+2019-07-18 15:43:39 pid:10435 Workerman[start.php] stopping ...
+2019-07-18 15:43:39 pid:10435 Workerman[start.php] has been stopped
+2019-07-18 15:45:09 pid:10524 Workerman[start.php] start in DEBUG mode
+2019-07-18 15:45:26 pid:10524 Workerman[start.php] stopping ...
+2019-07-18 15:45:26 pid:10524 Workerman[start.php] has been stopped
+2019-07-18 15:47:18 pid:10556 Workerman[start.php] start in DEBUG mode
+2019-07-18 15:47:45 pid:10556 Workerman[start.php] stopping ...
+2019-07-18 15:47:45 pid:10556 Workerman[start.php] has been stopped
+2019-07-18 15:47:56 pid:10585 Workerman[start.php] start in DEBUG mode
+2019-07-18 15:51:09 pid:10585 Workerman[start.php] stopping ...
+2019-07-18 15:51:09 pid:10585 Workerman[start.php] has been stopped
+2019-07-18 15:51:10 pid:10625 Workerman[start.php] start in DEBUG mode
+2019-07-18 16:04:28 pid:10625 Workerman[start.php] stopping ...
+2019-07-18 16:04:28 pid:10625 Workerman[start.php] has been stopped
+2019-07-18 16:04:52 pid:10889 Workerman[start.php] start in DEBUG mode
+2019-07-18 16:10:14 pid:10889 Workerman[start.php] stopping ...
+2019-07-18 16:10:14 pid:10889 Workerman[start.php] has been stopped
+2019-07-18 16:11:06 pid:10984 Workerman[start.php] start in DEBUG mode
+2019-07-18 16:11:53 pid:11006 Workerman[start.php] start in DEBUG mode
+2019-07-18 16:11:53 pid:11006 Workerman[start.php] already running
+2019-07-18 16:15:18 pid:11051 Workerman[start.php] start in DEBUG mode
+2019-07-18 16:15:18 pid:11051 Workerman[start.php] already running
+2019-07-18 16:22:12 pid:11090 Workerman[start.php] start in DEBUG mode
+2019-07-18 16:22:12 pid:11090 Workerman[start.php] already running
+2019-07-18 16:39:00 pid:11176 Workerman[start.php] start in DEBUG mode
+2019-07-18 16:39:00 pid:11176 Workerman[start.php] already running
+2019-07-18 16:39:22 pid:11179 Workerman[start.php] start in DEBUG mode
+2019-07-18 16:39:22 pid:11179 Workerman[start.php] already running
+2019-07-18 16:39:29 pid:11181 Workerman[start.php] start in DAEMON mode
+2019-07-18 16:39:29 pid:11181 Workerman[start.php] already running
+2019-07-18 16:39:55 pid:11184 Workerman[start.php] reload 
+2019-07-18 16:39:57 pid:11185 Workerman[start.php] start in DEBUG mode
+2019-07-18 16:39:57 pid:11185 Workerman[start.php] already running
+2019-07-18 16:40:23 pid:11190 Workerman[start.php] start in DEBUG mode
+2019-07-18 17:00:02 pid:11190 Workerman[start.php] stopping ...
+2019-07-18 17:00:02 pid:11190 Workerman[start.php] has been stopped
+2019-07-18 17:02:32 pid:11445 Workerman[start.php] start in DEBUG mode
+2019-07-18 17:02:39 pid:11445 Workerman[start.php] stopping ...
+2019-07-18 17:02:39 pid:11445 Workerman[start.php] has been stopped
+2019-07-18 17:05:47 pid:11483 Workerman[start.php] start in DEBUG mode
+2019-07-18 17:09:03 pid:11483 Workerman[start.php] stopping ...
+2019-07-18 17:09:03 pid:11483 Workerman[start.php] has been stopped
+2019-07-18 17:13:17 pid:12222 Workerman[start.php] start in DEBUG mode
+2019-07-18 17:17:52 pid:12222 Workerman[start.php] stopping ...
+2019-07-18 17:17:53 pid:12222 Workerman[start.php] has been stopped
+2019-07-18 17:21:52 pid:12318 Workerman[start.php] start in DEBUG mode
+2019-07-18 17:25:27 pid:12318 Workerman[start.php] stopping ...
+2019-07-18 17:25:27 pid:12318 Workerman[start.php] has been stopped
+2019-07-18 17:25:40 pid:12378 Workerman[start.php] start in DEBUG mode
+2019-07-19 09:26:09 pid:18402 Workerman[start.php] start in DEBUG mode
+2019-07-19 12:01:30 pid:1598 Workerman[start.php] start in DEBUG mode
+2019-07-19 14:40:56 pid:2599 Workerman[start.php] start in DEBUG mode
+2019-07-22 09:39:04 pid:1692 Workerman[start.php] start in DAEMON mode
+2019-07-23 01:45:49 pid:1705 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2019-07-24 00:08:00 pid:1705 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
